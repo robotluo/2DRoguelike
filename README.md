@@ -1,5 +1,5 @@
 # 2DRoguelike
-同样的，实现过程只记大致思路与新知识点，不记细节。
+同样的，实现过程只记大致思路与新知识点，不记细节。  
 导入路径 Assets/scence/BattlePlane.unity 
 简书: http://www.jianshu.com/p/f2eecdab720e 
 大致实现功能：  
